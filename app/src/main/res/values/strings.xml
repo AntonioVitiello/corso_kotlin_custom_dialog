@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Corso Kotlin</string>
+    <string name="inline">Start inline</string>
+    <string name="dialog">Show dialog</string>
+    <string name="accept">Accetta</string>
+    <string name="cancel">Annulla</string>
+    <string name="attention">Attenzione</string>
+    <string name="procede_body">Posso procedere?</string>
+    <string name="first_message">This is first message: \"Hello World!\"\n</string>
+    <string name="messages_title"><![CDATA[INLINE & CUSTOM DIALOG TEST]]></string>
+    <string name="messages_concat">%s\n%s</string>
+</resources>
